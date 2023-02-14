@@ -33,7 +33,7 @@
       "value" : "-"
     }, {
       "name" : "function_cyclomatic_complexity_alert",
-      "value" : "-"
+      "value" : "8"
     }, {
       "name" : "function_bumpy_road_bumps_for_warning",
       "value" : "-"
@@ -85,10 +85,10 @@
       "weight" : 1.0
     }, {
       "name" : "Complex Method",
-      "weight" : 0.0
+      "weight" : 1.0
     }, {
       "name" : "Bumpy Road Ahead",
-      "weight" : 0.0
+      "weight" : 1.0
     }, {
       "name" : "Deep, Nested Complexity",
       "weight" : 1.0
