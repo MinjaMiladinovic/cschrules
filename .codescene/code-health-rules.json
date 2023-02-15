@@ -33,7 +33,7 @@
       "value" : "-"
     }, {
       "name" : "function_cyclomatic_complexity_alert",
-      "value" : "8"
+      "value" : "90"
     }, {
       "name" : "function_bumpy_road_bumps_for_warning",
       "value" : "-"
