@@ -18,7 +18,7 @@
       "value" : "-"
     }, {
       "name" : "function_embedded_content_lines_of_code_alert",
-      "value" : "-"
+      "value" : "100"
     }, {
       "name" : "unit_test_suite_number_of_large_assertion_blocks",
       "value" : "-"
@@ -27,7 +27,7 @@
       "value" : "-"
     }, {
       "name" : "function_lines_of_code_warning",
-      "value" : "-"
+      "value" : "100"
     }, {
       "name" : "function_lines_of_code_alert",
       "value" : "-"
@@ -51,7 +51,7 @@
       "value" : "-"
     }, {
       "name" : "file_lines_of_code_for_warning",
-      "value" : "-"
+      "value" : "100"
     }, {
       "name" : "file_mean_cyclomatic_complexity_warning",
       "value" : "-"
